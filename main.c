@@ -1,9 +1,9 @@
 /* ######################################## ADDRESS BOOK ######################################## 
 Name : Pranav S
-
+Project Name : Address Book
 Description : Program to create and use an address book. Details such as name, phone, email address
-			  and place can be stored in a .csv file. The entries made can be modified, viewed, 
-			  searched and also be deleted
+and place can be stored in a .csv file. The entries made can be modified, viewed, 
+searched and also be deleted
 */
 
 #include<stdio.h>
